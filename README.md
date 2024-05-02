@@ -30,8 +30,8 @@ The following are helper functions that are called by the main scripts.
 
 
 ### Matlab Files
-``Barkley_spiral_r25.mat``: Spiral wave solution to the Barkley model with radius 25. Other parameters are define in the ``par`` structure. Specifically, $\delta = 0.2$, $b = 0.001$, $a = 0.7$, and $\epsilon = 0.02$. 
+``Barkley_spiral_r25_h0p05_delta0p2_b0p001_a0p7_ep0p02.mat``: Spiral wave solution to the Barkley model with radius 25. Other parameters are define in the ``par`` structure and in the file name. Specifically, $\delta = 0.2$, $b = 0.001$, $a = 0.7$, and $\epsilon = 0.02$. 
 
-``Barkley_spiral_r50.mat``: Spiral wave solution to the Barkley model with radius 50. Other parameters are define in the ``par`` structure and are equivalent to the radius 25 case.
+``Barkley_spiral_r50_h0p05_delta0p2_b0p001_a0p7_ep0p02_positiveOmega.mat``: Spiral wave solution to the Barkley model with radius 50. Other parameters are define in the ``par`` structure and are equivalent to the radius 25 case.
 
 
